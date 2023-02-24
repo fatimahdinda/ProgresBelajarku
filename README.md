@@ -17,7 +17,7 @@ Repository ini beris pengalaman belajar di Dicoding
  **26 Februari 2023**
  <p>Belajar kelas Memulai Pemrograman dengan Java. (Progress 100%)<p>
   
-   *Belajar konsep OOP(Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+  * Belajar konsep OOP(Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
 
   * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
 
